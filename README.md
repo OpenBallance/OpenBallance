@@ -12,8 +12,8 @@
 
 ## 声明
 
-* OpenBallance 项目与 Ballance 的开发商和运营商无任何关系。
-* OpenBallance不包含 Ballance 的程序和资源文件，以及其他所有受版权保护的内容。如果您想游玩 OpenBallance，您不需要拥有 Ballance 的正版拷贝。
+* OpenBallance 项目与 Ballance 的开发商和发行商无任何关系。
+* OpenBallance 不包含 Ballance 的程序和资源文件，以及其他所有受版权保护的内容。如果您想游玩 OpenBallance，您不需要拥有 Ballance 的正版拷贝。
 
 
 
