@@ -2,11 +2,13 @@
 
 经典游戏 Ballance 的开源复刻版本。
 
+![Key Art](https://github.com/OpenBallance/OpenBallance/blob/master/key_art.jpg?raw=true)
 
 
 ## 最新进展
 
 更新：目前发现Godot的物理引擎存在一些问题，可能无法实现Level12的单轨。
+更新2：物理引擎确实存在严重Bug，Godot已在2021年底修复，但不知是否能解决单轨问题。
 
 ----
 
